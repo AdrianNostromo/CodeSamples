@@ -1,0 +1,24 @@
+/**
+ * Created by Adrian on 11/18/2014.
+ */
+define([
+	"dojo/_base/declare"
+], function(declare){
+	"use strict";
+	var cls = declare("app.ingamea.util.BlockEventType", null, {});
+	
+	cls.CREATE_INITIAL = "CREATE_INITIAL";
+	cls.DESTROY_MATCHED = "DESTROY_MATCHED";
+	cls.COLLECTED = "COLLECTED";
+	cls.BLOCK_OUT_BOARD_CLEARING = "BLOCK_OUT_BOARD_CLEARING";
+	cls.EXPLODING_BOMB_SOURCE = "EXPLODING_BOMB_SOURCE";
+	cls.CRUSHED = "CRUSHED";
+	cls.EXPLODING_LINE_DESTROYER_SOURCE = "EXPLODING_LINE_DESTROYER_SOURCE";
+	cls.EXPLODING_COLUMN_DESTROYER_SOURCE = "EXPLODING_COLUMN_DESTROYER_SOURCE";
+	cls.NO_ACTIVATION = "NO_ACTIVATION";
+	cls.UNLOCKED = "UNLOCKED";
+	cls.COLOR_PAINTING = "COLOR_PAINTING";
+	
+	return cls;
+	
+});

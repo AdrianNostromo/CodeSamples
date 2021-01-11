@@ -1,0 +1,153 @@
+
+taTextures.png
+size: 2048,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+modelTextures/balls/ballShadow
+  rotate: false
+  xy: 8, 8
+  size: 64, 64
+  orig: 64, 64
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style1
+  rotate: false
+  xy: 8, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style10
+  rotate: false
+  xy: 536, 80
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style11
+  rotate: false
+  xy: 800, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style12
+  rotate: false
+  xy: 1064, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style13
+  rotate: false
+  xy: 800, 80
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style14
+  rotate: false
+  xy: 1064, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style15
+  rotate: false
+  xy: 1328, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style16
+  rotate: false
+  xy: 1064, 80
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style17
+  rotate: false
+  xy: 1328, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style18
+  rotate: false
+  xy: 1592, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style19
+  rotate: false
+  xy: 1328, 80
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style2
+  rotate: false
+  xy: 8, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style20
+  rotate: false
+  xy: 1592, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style3
+  rotate: false
+  xy: 272, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style4
+  rotate: false
+  xy: 8, 80
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style5
+  rotate: false
+  xy: 272, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style6
+  rotate: false
+  xy: 536, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style7
+  rotate: false
+  xy: 272, 80
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style8
+  rotate: false
+  xy: 536, 344
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+modelTextures/balls/style9
+  rotate: false
+  xy: 800, 608
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1

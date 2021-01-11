@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>App</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="Most awesome app.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	
+	<script type="text/javascript" src="pixi.js"></script>
+</head>
+<body onload="onBodyLoaded()">
+
+<script>
+	function onBodyLoaded() {
+		var renderer = new PIXI.CanvasRenderer(320, 480);
+		// var renderer = new PIXI.WebGLRenderer(320, 480);
+		
+		var canvas = renderer.view;
+		document.body.appendChild(canvas);
+
+		// SCENERY
+		var stage = new PIXI.Container();
+
+		var loader = PIXI.loader.add("ts_inGame.json")
+		      .load(function (loader, resources) {
+		          var newSprite = PIXI.Sprite.fromFrame("inGame/bg/BgA/ground");
+		          
+		          newSprite.width = 100;
+		          newSprite.height = 100;
+		          
+		          newSprite.x = 100;
+		          newSprite.y = 100;
+		          
+		          stage.addChild(newSprite);
+		      });
+
+		//RENDER LOOP
+		(function loop (t) {
+		  requestAnimationFrame(loop);
+		  renderer.render(stage);
+		}());
+	}
+</script>
+</body>
+</html>

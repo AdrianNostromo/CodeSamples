@@ -1,0 +1,1 @@
+{"version":3,"file":"GeneralTcpConnection.js","sourceRoot":"","sources":["../../../../../../src/base/common/net/tcp/connection/GeneralTcpConnection.ts"],"names":[],"mappings":";;AAAA,+DAA4D;AAI5D,MAAa,oBAAqB,SAAQ,yCAAmB;IAE3D,YAAmB,MAAkB;QACnC,KAAK,CAAC,MAAM,CAAC,CAAC;QAEd,MAAM;IACR,CAAC;CAEF;AARD,oDAQC"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"LocalCustomModule.js","sourceRoot":"","sources":["../../../src/squareheads/module/LocalCustomModule.ts"],"names":[],"mappings":";;AAAA,2DAAwD;AAKxD,MAAa,iBAAkB,SAAQ,2BAAY;IAIjD,YAAY,GAAc,EAAE,yBAAqD;QAC/E,KAAK,CAAC,GAAG,EAAE,yBAAyB,CAAC,CAAC;QAEtC,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;IAClB,CAAC;IAEM,MAAM;QACX,OAAO,IAAI,CAAC,IAAI,CAAC;IACnB,CAAC;CAEF;AAdD,8CAcC"}

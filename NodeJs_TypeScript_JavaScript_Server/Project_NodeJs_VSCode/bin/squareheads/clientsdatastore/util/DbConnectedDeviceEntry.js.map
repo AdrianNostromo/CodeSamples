@@ -1,0 +1,1 @@
+{"version":3,"file":"DbConnectedDeviceEntry.js","sourceRoot":"","sources":["../../../../src/squareheads/clientsdatastore/util/DbConnectedDeviceEntry.ts"],"names":[],"mappings":";;AACA,MAAa,sBAAsB;IAQjC,YAAmB,SAAiB,EAAE,QAAgB,EAAE,SAAiB;QACvE,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAE3B,IAAI,CAAC,QAAQ,GAAG,QAAQ,CAAC;QAEzB,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC7B,CAAC;CAEF;AAhBD,wDAgBC"}

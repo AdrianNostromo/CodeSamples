@@ -1,0 +1,21 @@
+npm init
+Name: app
+Entry point: src/main.js
+
+npm install typescript --save
+
+npm install @types/node --save
+
+npm install express --save
+npm install busboy --save
+npm install image-size --save
+
+npm install lokijs --save
+npm install @types/lokijs --save
+
+npm install md5 --save
+npm install @types/md5 --save
+
+npm install random-seed --save
+npm install @types/random-seed --save
+

@@ -1,0 +1,1 @@
+{"version":3,"file":"LocalCustomModule.js","sourceRoot":"","sources":["../../../src/logmanager/component/LocalCustomModule.ts"],"names":[],"mappings":";;AAAA,2DAAwD;AAKxD,MAAa,iBAAkB,SAAQ,2BAAY;IAI/C,YAAY,GAAc,EAAE,yBAAqD;QAC7E,KAAK,CAAC,GAAG,EAAE,yBAAyB,CAAC,CAAC;QAEtC,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;IACpB,CAAC;IAEM,MAAM;QACT,OAAO,IAAI,CAAC,IAAI,CAAC;IACrB,CAAC;CAEJ;AAdD,8CAcC"}

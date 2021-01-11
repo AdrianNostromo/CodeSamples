@@ -1,0 +1,22 @@
+#pragma once
+
+#include <base/gh.h>
+#include <worldGame3D/gw/gamepart/GamePart.h>
+#include "IGamePartPlayLogicHandler.h"
+
+class EntityRemoveReason;
+namespace randDungeons_a_v1 {
+namespace Main {
+	class IMainInGameUIView;
+};
+};
+
+namespace randDungeons_a_v1 {
+namespace Main {
+class GPPLH_Base : public GamePart, virtual public IGamePartPlayLogicHandler {priv typedef GamePart super;pub dCtor(GPPLH_Base);
+	pub explicit GPPLH_Base(base::IGameWorld* gw);
+
+    pub ~GPPLH_Base() override;
+};
+};
+};

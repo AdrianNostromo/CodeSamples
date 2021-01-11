@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+}
+
+@-webkit-keyframes wink {
+    from { background-position: 0px; }
+    to { background-position: -500px; }
+}
+
+@-moz-keyframes wink {
+    from { background-position: 0px; }
+    to { background-position: -500px; }
+}
+
+@keyframes wink {
+    from { background-position: 0px; }
+    to { background-position: -500px; }
+}
+
+.hi {
+    width: 50px;
+    height: 72px;
+    background-image: url("http://cssdeck.com/uploads/media/items/9/9fVQoLD.png");
+    margin: 0 auto;
+    
+    -webkit-animation: wink .8s steps(10, end) infinite;
+    -moz-animation: wink .8s steps(10, end) infinite;
+    animation: wink .8s steps(10, end) infinite;
+}​

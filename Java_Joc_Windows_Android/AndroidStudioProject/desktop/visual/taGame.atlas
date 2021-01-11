@@ -1,0 +1,250 @@
+
+taGame.png
+size: 2048,2048
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+backgroundMenu/backgrounds/blue
+  rotate: false
+  xy: 691, 268
+  size: 300, 480
+  orig: 300, 480
+  offset: 0, 0
+  index: -1
+gameWorld/fx/imgItemCollectedVFXParticle
+  rotate: false
+  xy: 1311, 64
+  size: 150, 150
+  orig: 150, 150
+  offset: 0, 0
+  index: -1
+gameWorld/tutorialPanel/btnEndTutorial_up
+  rotate: false
+  xy: 999, 514
+  size: 495, 173
+  orig: 495, 173
+  offset: 0, 0
+  index: -1
+gameWorld/tutorialPanel/imgTitle
+  rotate: false
+  xy: 1199, 778
+  size: 673, 101
+  orig: 673, 101
+  offset: 0, 0
+  index: -1
+gameWorld/tutorialPanel/mcHand_001
+  rotate: false
+  xy: 1783, 1553
+  size: 255, 322
+  orig: 255, 322
+  offset: 0, 0
+  index: -1
+gameWorld/tutorialPanel/mcHand_002
+  rotate: false
+  xy: 1471, 24
+  size: 195, 240
+  orig: 195, 240
+  offset: 0, 0
+  index: -1
+general/debugTouchDetector
+  rotate: false
+  xy: 1935, 1445
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+general/imgBg
+  rotate: false
+  xy: 8, 187
+  size: 675, 1069
+  orig: 675, 1069
+  offset: 0, 0
+  index: -1
+general/imgGems
+  rotate: false
+  xy: 1935, 1347
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+levelEndView/btnRateGame_up
+  rotate: false
+  xy: 1199, 1101
+  size: 724, 206
+  orig: 724, 206
+  offset: 0, 0
+  index: -1
+levelEndView/btnRetry_up
+  rotate: false
+  xy: 1051, 1586
+  size: 724, 289
+  orig: 724, 289
+  offset: 0, 0
+  index: -1
+levelEndView/btnShare_up
+  rotate: false
+  xy: 1199, 887
+  size: 724, 206
+  orig: 724, 206
+  offset: 0, 0
+  index: -1
+levelEndView/imgScorePanelBg
+  rotate: false
+  xy: 8, 1264
+  size: 1035, 751
+  orig: 1035, 751
+  offset: 0, 0
+  index: -1
+levelEndView/imgTitle
+  rotate: false
+  xy: 1051, 1883
+  size: 988, 132
+  orig: 988, 132
+  offset: 0, 0
+  index: -1
+mainView/btnAchievements_up
+  rotate: false
+  xy: 1840, 106
+  size: 157, 158
+  orig: 157, 158
+  offset: 0, 0
+  index: -1
+mainView/btnLeaderboards_up
+  rotate: false
+  xy: 979, 57
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+mainView/btnRateApp_up
+  rotate: false
+  xy: 1145, 57
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+mainView/btnShop_up
+  rotate: false
+  xy: 1674, 106
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1
+mainView/btnWatchRewardedVideo_up
+  rotate: false
+  xy: 1747, 1338
+  size: 180, 207
+  orig: 180, 207
+  offset: 0, 0
+  index: -1
+mainView/imgRays
+  rotate: false
+  xy: 691, 756
+  size: 500, 500
+  orig: 500, 500
+  offset: 0, 0
+  index: -1
+mainView/imgTapToPlay
+  rotate: false
+  xy: 1199, 695
+  size: 618, 75
+  orig: 618, 75
+  offset: 0, 0
+  index: -1
+mainView/imgTitle
+  rotate: false
+  xy: 8, 14
+  size: 835, 165
+  orig: 835, 165
+  offset: 0, 0
+  index: -1
+shopView/btnBack_up
+  rotate: false
+  xy: 1874, 8
+  size: 90, 90
+  orig: 90, 90
+  offset: 0, 0
+  index: -1
+shopView/imgItemTooExpensive
+  rotate: false
+  xy: 851, 102
+  size: 120, 158
+  orig: 120, 158
+  offset: 0, 0
+  index: -1
+shopView/imgItemUnlockCost
+  rotate: false
+  xy: 1674, 8
+  size: 192, 90
+  orig: 192, 90
+  offset: 0, 0
+  index: -1
+shopView/imgItemUnlockable
+  rotate: false
+  xy: 1880, 721
+  size: 120, 158
+  orig: 120, 158
+  offset: 0, 0
+  index: -1
+shopView/imgTitle
+  rotate: false
+  xy: 1471, 272
+  size: 433, 123
+  orig: 433, 123
+  offset: 0, 0
+  index: -1
+shopView/manualMask_top
+  rotate: false
+  xy: 1051, 1315
+  size: 688, 263
+  orig: 688, 263
+  offset: 0, 0
+  index: -1
+shopView/tbtnBalls_selected_up
+  rotate: false
+  xy: 999, 368
+  size: 464, 138
+  orig: 464, 138
+  offset: 0, 0
+  index: -1
+shopView/tbtnBalls_up
+  rotate: false
+  xy: 999, 222
+  size: 464, 138
+  orig: 464, 138
+  offset: 0, 0
+  index: -1
+shopView/tbtnFloors_selected_up
+  rotate: false
+  xy: 1502, 549
+  size: 464, 138
+  orig: 464, 138
+  offset: 0, 0
+  index: -1
+shopView/tbtnFloors_up
+  rotate: false
+  xy: 1502, 403
+  size: 464, 138
+  orig: 464, 138
+  offset: 0, 0
+  index: -1
+
+taGame2.png
+size: 512,256
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+mainView/tbtnUnmute_selected_up
+  rotate: false
+  xy: 174, 9
+  size: 158, 157
+  orig: 158, 157
+  offset: 0, 0
+  index: -1
+mainView/tbtnUnmute_up
+  rotate: false
+  xy: 8, 8
+  size: 158, 158
+  orig: 158, 158
+  offset: 0, 0
+  index: -1

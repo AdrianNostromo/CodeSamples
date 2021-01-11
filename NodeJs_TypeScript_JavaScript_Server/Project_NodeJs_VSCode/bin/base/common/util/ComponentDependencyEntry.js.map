@@ -1,0 +1,1 @@
+{"version":3,"file":"ComponentDependencyEntry.js","sourceRoot":"","sources":["../../../../src/base/common/util/ComponentDependencyEntry.ts"],"names":[],"mappings":";;AAGA,MAAa,wBAAwB;IAKnC,YAAmB,aAA4B,EAAE,oBAAqC;QACpF,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;QACnC,IAAI,CAAC,oBAAoB,GAAG,oBAAoB,CAAA;IAClD,CAAC;CAEF;AAVD,4DAUC"}

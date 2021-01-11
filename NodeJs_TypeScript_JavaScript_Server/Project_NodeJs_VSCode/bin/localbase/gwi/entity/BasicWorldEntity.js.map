@@ -1,0 +1,1 @@
+{"version":3,"file":"BasicWorldEntity.js","sourceRoot":"","sources":["../../../../src/localbase/gwi/entity/BasicWorldEntity.ts"],"names":[],"mappings":";;AAAA,mFAAgF;AAKhF,MAAa,gBAAiB,SAAQ,6DAA6B;IAEjE,YAAmB,QAAwB,EAAE,QAAgB,EAAE,OAAuB,EAAE,sBAA8C;QACpI,KAAK,CAAC,QAAQ,EAAE,QAAQ,EAAE,OAAO,EAAE,sBAAsB,CAAC,CAAC;QAE3D,MAAM;IACR,CAAC;CAEF;AARD,4CAQC"}

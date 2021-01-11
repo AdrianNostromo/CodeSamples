@@ -1,0 +1,398 @@
+
+taUtilLinear.png
+size: 512,1024
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+bg/card_composed/_BC
+  rotate: false
+  xy: 494, 689
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_CC
+  rotate: false
+  xy: 494, 689
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_CL
+  rotate: false
+  xy: 494, 689
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_CR
+  rotate: false
+  xy: 494, 689
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_TC
+  rotate: false
+  xy: 494, 689
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_BL
+  rotate: false
+  xy: 494, 671
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_BR
+  rotate: false
+  xy: 84, 239
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_TL
+  rotate: false
+  xy: 116, 267
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/card_composed/_TR
+  rotate: false
+  xy: 20, 50
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+bg/checker_2x2_white_black
+  rotate: false
+  xy: 84, 373
+  size: 60, 60
+  orig: 60, 60
+  offset: 0, 0
+  index: -1
+bg/divider_horizontal_white_FFFFFFFF
+  rotate: false
+  xy: 205, 507
+  size: 80, 4
+  orig: 80, 4
+  offset: 0, 0
+  index: -1
+bg/divider_vertical_white_FFFFFFFF
+  rotate: false
+  xy: 8, 8
+  size: 4, 80
+  orig: 4, 80
+  offset: 0, 0
+  index: -1
+bg/outline_circle_white
+  rotate: false
+  xy: 84, 564
+  size: 256, 256
+  orig: 256, 256
+  offset: 0, 0
+  index: -1
+bg/simple_white_FFFFFF
+  rotate: false
+  xy: 348, 591
+  size: 30, 30
+  orig: 30, 30
+  offset: 0, 0
+  index: -1
+shadow/bottomBar_top
+  rotate: false
+  xy: 84, 536
+  size: 360, 20
+  orig: 360, 20
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_BC
+  rotate: false
+  xy: 20, 68
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_BC
+  rotate: false
+  xy: 20, 68
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_BL
+  rotate: false
+  xy: 426, 679
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_BL
+  rotate: false
+  xy: 426, 679
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_BR
+  rotate: false
+  xy: 84, 285
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_BR
+  rotate: false
+  xy: 84, 285
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_CC
+  rotate: false
+  xy: 426, 633
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_CC
+  rotate: false
+  xy: 426, 633
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+shadow/menu/_CC
+  rotate: false
+  xy: 426, 633
+  size: 14, 10
+  orig: 14, 10
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_CL
+  rotate: false
+  xy: 152, 380
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_CL
+  rotate: false
+  xy: 152, 380
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_CR
+  rotate: false
+  xy: 348, 573
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_CR
+  rotate: false
+  xy: 348, 573
+  size: 28, 10
+  orig: 28, 10
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_TC
+  rotate: false
+  xy: 51, 118
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_TC
+  rotate: false
+  xy: 51, 118
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_TL
+  rotate: false
+  xy: 205, 479
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_TL
+  rotate: false
+  xy: 205, 479
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/card_composed/_TR
+  rotate: false
+  xy: 386, 601
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/button_raised_composed/_TR
+  rotate: false
+  xy: 386, 601
+  size: 28, 20
+  orig: 28, 20
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_BC
+  rotate: false
+  xy: 162, 441
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_BL
+  rotate: false
+  xy: 348, 750
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_BR
+  rotate: false
+  xy: 84, 441
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_CC
+  rotate: false
+  xy: 152, 398
+  size: 35, 35
+  orig: 35, 35
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_CL
+  rotate: false
+  xy: 348, 629
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_CR
+  rotate: false
+  xy: 426, 707
+  size: 70, 35
+  orig: 70, 35
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_TC
+  rotate: false
+  xy: 8, 96
+  size: 35, 70
+  orig: 35, 70
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_TL
+  rotate: false
+  xy: 348, 672
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+shadow/dialog_composed/_TR
+  rotate: false
+  xy: 426, 750
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+shadow/fab_medium_56To68
+  rotate: false
+  xy: 8, 174
+  size: 68, 68
+  orig: 68, 68
+  offset: 0, 0
+  index: -1
+shadow/fab_small_40To52
+  rotate: false
+  xy: 84, 313
+  size: 52, 52
+  orig: 52, 52
+  offset: 0, 0
+  index: -1
+shadow/leftDrawer_right
+  rotate: false
+  xy: 8, 250
+  size: 30, 570
+  orig: 30, 570
+  offset: 0, 0
+  index: -1
+shadow/menu/_BC
+  rotate: false
+  xy: 120, 285
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shadow/menu/_BL
+  rotate: false
+  xy: 51, 146
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shadow/menu/_BR
+  rotate: false
+  xy: 462, 679
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shadow/menu/_CL
+  rotate: false
+  xy: 205, 461
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+shadow/menu/_CR
+  rotate: false
+  xy: 241, 489
+  size: 24, 10
+  orig: 24, 10
+  offset: 0, 0
+  index: -1
+shadow/menu/_TC
+  rotate: false
+  xy: 458, 651
+  size: 14, 20
+  orig: 14, 20
+  offset: 0, 0
+  index: -1
+shadow/menu/_TL
+  rotate: false
+  xy: 426, 651
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shadow/menu/_TR
+  rotate: false
+  xy: 84, 257
+  size: 24, 20
+  orig: 24, 20
+  offset: 0, 0
+  index: -1
+shadow/rightDrawer_left
+  rotate: false
+  xy: 46, 250
+  size: 30, 570
+  orig: 30, 570
+  offset: 0, 0
+  index: -1
+shadow/titleBar_bottom
+  rotate: false
+  xy: 84, 519
+  size: 360, 9
+  orig: 360, 9
+  offset: 0, 0
+  index: -1

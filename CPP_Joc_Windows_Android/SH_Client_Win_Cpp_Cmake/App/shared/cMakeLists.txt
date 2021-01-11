@@ -1,0 +1,51 @@
+
+## Compiler flags and stuff - Start
+set(CMAKE_C_STANDARD "11")
+set(CMAKE_CXX_STANDARD "14")
+
+# C flags
+set(CFLAGS "${CFLAGS} ")
+
+# C++ flags
+set(CXXFLAGS "${CXXFLAGS} ")
+
+# C/C++ flags
+# Note. -fstandalone-debug is used for extra debug information.
+# Note these currently don't work on android clang version
+#-Wno-extra-semi-stmt
+set(CPPFLAGS "${CPPFLAGS} -Werror -Wall -Wextra -Winconsistent-missing-override -Werror=inconsistent-missing-override -Wno-backslash-newline-escape -Wno-unused-parameter -Wno-unused-private-field -Wno-c++98-compat -Wno-deprecated-dynamic-exception-spec -Wno-c++98-compat-extra-semi -Wno-shadow-field-in-constructor -Wno-shadow -Wno-extra-semi -Wno-documentation -Wno-global-constructors -Wno-exit-time-destructors -Wno-c++98-compat-pedantic -Wno-sign-conversion -Wno-shadow-field -Wno-sign-compare -Wno-float-equal -Wno-deprecated -Wno-old-style-cast -Wno-zero-as-null-pointer-constant -Wno-missing-prototypes -Wno-double-promotion -Wno-language-extension-token -Wno-cast-qual -Wno-implicit-int-conversion -Wno-bad-function-cast -Wno-unused-macros -Wno-comma -Wno-reserved-id-macro -Wno-implicit-fallthrough -Wno-missing-variable-declarations -Wno-cast-align -Wno-disabled-macro-expansion -Wno-undefined-reinterpret-cast -Wno-unused-exception-parameter -Wno-unused-variable -Wno-return-std-move-in-c++11 -Wno-missing-noreturn -Wno-float-conversion -Wno-defaulted-function-deleted -Wno-format-nonliteral -Wno-shorten-64-to-32 -Wno-unused-function -Wno-implicit-float-conversion -Wno-documentation-unknown-command -Wno-nonportable-system-include-path -Wno-nested-anon-types -Wno-overloaded-virtual -Wno-covered-switch-default -Wno-undef -Wno-microsoft-enum-value")
+
+SET(CMAKE_C_FLAGS "${CMAKE_C_FLAGS} ${CFLAGS} ${CPPFLAGS}")
+SET(CMAKE_CXX_FLAGS "${CMAKE_CXX_FLAGS} ${CXXFLAGS} ${CPPFLAGS}")
+## Compiler flags and stuff - End
+
+## Linker stuff - Start
+# set(LDFLAGS " ${OPENGL_gl_LIBRARY} -lGLU -lglfw -lGLEW -lpthread -lasound")
+set(LDFLAGS "-Wl,–allow-multiple-definition")
+
+link_directories("${PROJECT_SOURCE_DIR}/deps/libs")
+link_directories("${PROJECT_SOURCE_DIR}/deps_native/libs")
+## Linker stuff - End
+
+set(HDR_DIR_MAIN
+	${HDR_DIR_MAIN}
+    ${PROJECT_SOURCE_DIR}/src
+	${PROJECT_SOURCE_DIR}/src_native
+
+	${PROJECT_SOURCE_DIR}/deps/include
+	${PROJECT_SOURCE_DIR}/deps_native/include
+
+	${PROJECT_SOURCE_DIR}/deps/bulletPhysics3D/src
+
+	${NATIVE_INCLUDE_DIRS_LIST}
+)
+include_directories(${HDR_DIR_MAIN})
+
+# This must be after the include directories or the includes completion will be wrong.
+foreach(NATIVE_CMAKE_SUBRID ${NATIVE_CMAKE_SUBDIRECTORIES_LIST})
+    add_subdirectory(${NATIVE_CMAKE_SUBRID})
+endforeach(NATIVE_CMAKE_SUBRID)
+
+add_subdirectory("deps/bulletPhysics3D/src")
+add_subdirectory("src")
+add_subdirectory("src_native")

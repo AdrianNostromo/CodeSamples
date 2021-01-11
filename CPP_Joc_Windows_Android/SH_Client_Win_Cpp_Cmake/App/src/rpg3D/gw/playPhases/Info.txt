@@ -1,0 +1,2 @@
+NOTE. This is the new configurable system that succeeds turnBasedPlay.
+This can be used for a turn based movement and turn based scenario with configurable phases.

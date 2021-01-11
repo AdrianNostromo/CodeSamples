@@ -1,0 +1,1 @@
+{"version":3,"file":"LocalAppComponent.js","sourceRoot":"","sources":["../../../src/logmanager/component/LocalAppComponent.ts"],"names":[],"mappings":";;AAAA,wEAAqE;AAIrE,MAAa,iBAAkB,SAAQ,qCAAiB;IAIpD,YAAmB,GAAc;QAC7B,KAAK,CAAC,GAAG,CAAC,CAAC;QAEX,IAAI,CAAC,IAAI,GAAG,GAAG,CAAC;IACpB,CAAC;IAEM,MAAM;QACT,OAAO,IAAI,CAAC,IAAI,CAAC;IACrB,CAAC;CAEJ;AAdD,8CAcC"}

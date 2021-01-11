@@ -1,0 +1,35 @@
+
+
+>>>>>>>>>>>>>>> START : Main >>>>>>>>>>>>>>>
+
+# 2015.09.03
+// fxHandler: move to main modules;
+// fxHandler: create a fxconfigs to not clutter this file;
+// fxHandler: fx generators and particles have module param;
+// fxHandler: on level destroy, also destroy inGame generators and particles;
+
+#2015.09.04
+// visual fx update;
+// ViewLevelClear: finish visualFx;
+// fx has a source viewID; on view hide finish event, remove all it's generators and particles.
+
+#2015.09.05
+// Shop: free 12 diamonds daily and a timer when not available;
+// Popup ignores duplicates in stack.
+// Shop free diamonds fx;
+
+!> 12 level configs with auto difficulty increase after.
+
+.> Bug. All stars collected doesn't lanc level end.
+.> Bug star fx remove event doesn't trigger on view clear.
+
+> Tutorials.
+> Active abilities focus area border.
+> sounds;
+> shop buy logic;
+> ads;
+> final compilation;
+> upload to play store;
+
+>>>>>>>>>>>>>>> END : Main >>>>>>>>>>>>>>>
+

@@ -1,0 +1,1 @@
+{"version":3,"file":"ClientSessionInfo.js","sourceRoot":"","sources":["../../../../src/squareheads/clientsessionsmanager/util/ClientSessionInfo.ts"],"names":[],"mappings":";;AAAA,MAAa,iBAAiB;IAO5B,YAAmB,EAAU,EAAE,GAAW,EAAE,SAAiB;QAC3D,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;QAEf,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC7B,CAAC;CAEF;AAdD,8CAcC"}

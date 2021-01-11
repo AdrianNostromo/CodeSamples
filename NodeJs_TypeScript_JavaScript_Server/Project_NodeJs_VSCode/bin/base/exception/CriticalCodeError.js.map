@@ -1,0 +1,1 @@
+{"version":3,"file":"CriticalCodeError.js","sourceRoot":"","sources":["../../../src/base/exception/CriticalCodeError.ts"],"names":[],"mappings":";;AAAA,MAAa,iBAAkB,SAAQ,KAAK;IAE1C,YAAmB,OAAe;QAChC,KAAK,CAAC,OAAO,CAAC,CAAC;QAEf,IAAI,CAAC,IAAI,GAAG,mBAAmB,CAAC;IAClC,CAAC;CAEF;AARD,8CAQC"}

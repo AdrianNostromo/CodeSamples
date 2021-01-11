@@ -1,0 +1,804 @@
+{"frames": {
+
+"inGame/visualFX/boom/boom_001":
+{
+	"frame": {"x":2,"y":176,"w":12,"h":16},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":26,"y":23,"w":12,"h":16},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_002":
+{
+	"frame": {"x":815,"y":164,"w":50,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":7,"y":5,"w":50,"h":52},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_003":
+{
+	"frame": {"x":1074,"y":160,"w":59,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":1,"w":59,"h":60},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_004":
+{
+	"frame": {"x":867,"y":164,"w":47,"h":49},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":6,"w":47,"h":49},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_005":
+{
+	"frame": {"x":761,"y":164,"w":52,"h":52},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":5,"w":52,"h":52},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_006":
+{
+	"frame": {"x":701,"y":164,"w":58,"h":56},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":3,"y":3,"w":58,"h":56},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_007":
+{
+	"frame": {"x":1012,"y":160,"w":60,"h":60},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":60,"h":60},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/boom/boom_008":
+{
+	"frame": {"x":1379,"y":158,"w":64,"h":62},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":62},
+	"sourceSize": {"w":64,"h":62},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_001":
+{
+	"frame": {"x":309,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_002":
+{
+	"frame": {"x":1135,"y":160,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_003":
+{
+	"frame": {"x":1357,"y":81,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_004":
+{
+	"frame": {"x":1012,"y":81,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_005":
+{
+	"frame": {"x":610,"y":88,"w":65,"h":83},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":1,"w":65,"h":83},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_006":
+{
+	"frame": {"x":138,"y":89,"w":66,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_007":
+{
+	"frame": {"x":677,"y":2,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLACK/splat_008":
+{
+	"frame": {"x":1727,"y":79,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_001":
+{
+	"frame": {"x":259,"y":174,"w":48,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":14,"y":16,"w":48,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_002":
+{
+	"frame": {"x":1196,"y":160,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_003":
+{
+	"frame": {"x":1359,"y":2,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_004":
+{
+	"frame": {"x":1081,"y":81,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_005":
+{
+	"frame": {"x":342,"y":2,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_006":
+{
+	"frame": {"x":206,"y":2,"w":66,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_007":
+{
+	"frame": {"x":677,"y":83,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BLUE/splat_008":
+{
+	"frame": {"x":1729,"y":2,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_001":
+{
+	"frame": {"x":358,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_002":
+{
+	"frame": {"x":1257,"y":160,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_003":
+{
+	"frame": {"x":1431,"y":79,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_004":
+{
+	"frame": {"x":1083,"y":2,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_005":
+{
+	"frame": {"x":342,"y":88,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_006":
+{
+	"frame": {"x":2,"y":2,"w":66,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":85},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_007":
+{
+	"frame": {"x":744,"y":2,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_BROWN/splat_008":
+{
+	"frame": {"x":1793,"y":74,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_001":
+{
+	"frame": {"x":407,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_002":
+{
+	"frame": {"x":1318,"y":160,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_003":
+{
+	"frame": {"x":1433,"y":2,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_004":
+{
+	"frame": {"x":1150,"y":81,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_005":
+{
+	"frame": {"x":409,"y":2,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_006":
+{
+	"frame": {"x":206,"y":88,"w":66,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_007":
+{
+	"frame": {"x":744,"y":83,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_GREEN/splat_008":
+{
+	"frame": {"x":1795,"y":2,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_001":
+{
+	"frame": {"x":456,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_002":
+{
+	"frame": {"x":1445,"y":156,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_003":
+{
+	"frame": {"x":1505,"y":79,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_004":
+{
+	"frame": {"x":1152,"y":2,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_005":
+{
+	"frame": {"x":409,"y":88,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_006":
+{
+	"frame": {"x":274,"y":2,"w":66,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_007":
+{
+	"frame": {"x":811,"y":2,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_ORANGE/splat_008":
+{
+	"frame": {"x":1811,"y":146,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_001":
+{
+	"frame": {"x":505,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_002":
+{
+	"frame": {"x":1506,"y":156,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_003":
+{
+	"frame": {"x":1507,"y":2,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_004":
+{
+	"frame": {"x":1219,"y":81,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_005":
+{
+	"frame": {"x":476,"y":2,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_006":
+{
+	"frame": {"x":2,"y":89,"w":66,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":85},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_007":
+{
+	"frame": {"x":811,"y":83,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PINK/splat_008":
+{
+	"frame": {"x":1859,"y":74,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_001":
+{
+	"frame": {"x":554,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_002":
+{
+	"frame": {"x":1567,"y":156,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_003":
+{
+	"frame": {"x":1579,"y":79,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_004":
+{
+	"frame": {"x":1221,"y":2,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_005":
+{
+	"frame": {"x":476,"y":88,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_006":
+{
+	"frame": {"x":70,"y":2,"w":66,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":85},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_007":
+{
+	"frame": {"x":878,"y":2,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_PURPLE/splat_008":
+{
+	"frame": {"x":1861,"y":2,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_001":
+{
+	"frame": {"x":206,"y":174,"w":51,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":51,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_002":
+{
+	"frame": {"x":1628,"y":156,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_003":
+{
+	"frame": {"x":1581,"y":2,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_004":
+{
+	"frame": {"x":1012,"y":2,"w":69,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":69,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_005":
+{
+	"frame": {"x":543,"y":2,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_006":
+{
+	"frame": {"x":274,"y":88,"w":66,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_007":
+{
+	"frame": {"x":878,"y":83,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_RED/splat_008":
+{
+	"frame": {"x":1927,"y":2,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_001":
+{
+	"frame": {"x":603,"y":174,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_002":
+{
+	"frame": {"x":1689,"y":156,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_003":
+{
+	"frame": {"x":1653,"y":79,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_004":
+{
+	"frame": {"x":1288,"y":81,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_005":
+{
+	"frame": {"x":543,"y":88,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_006":
+{
+	"frame": {"x":70,"y":89,"w":66,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":85},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_007":
+{
+	"frame": {"x":945,"y":2,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_WHITE/splat_008":
+{
+	"frame": {"x":1925,"y":74,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_002":
+{
+	"frame": {"x":1750,"y":151,"w":59,"h":57},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":8,"y":8,"w":59,"h":57},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_003":
+{
+	"frame": {"x":1655,"y":2,"w":72,"h":75},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":0,"y":1,"w":72,"h":75},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_004":
+{
+	"frame": {"x":1290,"y":2,"w":67,"h":77},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":2,"y":1,"w":67,"h":77},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_005":
+{
+	"frame": {"x":610,"y":2,"w":65,"h":84},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":0,"w":65,"h":84},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_006":
+{
+	"frame": {"x":138,"y":2,"w":66,"h":85},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":4,"y":5,"w":66,"h":85},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_007":
+{
+	"frame": {"x":945,"y":83,"w":65,"h":79},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":5,"y":15,"w":65,"h":79},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_008":
+{
+	"frame": {"x":1877,"y":146,"w":64,"h":70},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":6,"y":29,"w":64,"h":70},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+},
+"inGame/visualFX/splat_YELLOW/splat_yellow":
+{
+	"frame": {"x":652,"y":173,"w":47,"h":46},
+	"rotated": false,
+	"trimmed": true,
+	"spriteSourceSize": {"x":15,"y":16,"w":47,"h":46},
+	"sourceSize": {"w":72,"h":99},
+	"pivot": {"x":0,"y":0}
+}},
+"meta": {
+	"app": "http://www.codeandweb.com/texturepacker",
+	"version": "1.0",
+	"image": "ts_inGame2_LD.png",
+	"format": "RGBA8888",
+	"size": {"w":1993,"h":222},
+	"scale": "0.25",
+	"smartupdate": "$TexturePacker:SmartUpdate:2b52aeb19f684e5d39b72aadc24d59e7:236761e12269391575f81e47700ffbbf:c11be4120a9dc10b1d02d9ec52b2bc07$"
+}
+}

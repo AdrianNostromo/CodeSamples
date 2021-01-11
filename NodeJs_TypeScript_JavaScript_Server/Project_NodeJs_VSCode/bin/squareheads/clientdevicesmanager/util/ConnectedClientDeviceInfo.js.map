@@ -1,0 +1,1 @@
+{"version":3,"file":"ConnectedClientDeviceInfo.js","sourceRoot":"","sources":["../../../../src/squareheads/clientdevicesmanager/util/ConnectedClientDeviceInfo.ts"],"names":[],"mappings":";;AAAA,MAAa,yBAAyB;IAOpC,YAAmB,EAAU,EAAE,GAAW,EAAE,SAAiB;QAC3D,IAAI,CAAC,EAAE,GAAG,EAAE,CAAC;QACb,IAAI,CAAC,GAAG,GAAG,GAAG,CAAC;QAEf,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;IAC7B,CAAC;CAEF;AAdD,8DAcC"}

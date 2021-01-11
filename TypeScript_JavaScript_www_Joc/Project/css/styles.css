@@ -1,0 +1,31 @@
+* {
+    margin:0;
+    padding:0;
+    border:0;
+    overflow: hidden;
+}
+
+html {
+	width: 100%;
+    height: 100%;
+}
+
+body {
+    width: 100%;
+    height: 100%;
+}
+
+#appCanvas {
+	width: 100%;
+    height: 100%;
+}
+
+#fontsLoadForcer1 {
+    font-family: "WFDosis";
+    font-weight: 800;
+}
+
+#fontsLoadForcer2 {
+    font-family: "WFOpenSans";
+    font-weight: 800;
+}

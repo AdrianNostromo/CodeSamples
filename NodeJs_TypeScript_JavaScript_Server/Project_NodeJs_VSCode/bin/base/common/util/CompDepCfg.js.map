@@ -1,0 +1,1 @@
+{"version":3,"file":"CompDepCfg.js","sourceRoot":"","sources":["../../../../src/base/common/util/CompDepCfg.ts"],"names":[],"mappings":";;AAGA,MAAa,UAAU;IAMrB,YAAY,aAA4B,EAAE,oBAAqC;QAC7E,IAAI,CAAC,aAAa,GAAG,aAAa,CAAC;QAEnC,IAAI,CAAC,oBAAoB,GAAG,oBAAoB,CAAC;IACnD,CAAC;CAEF;AAZD,gCAYC"}

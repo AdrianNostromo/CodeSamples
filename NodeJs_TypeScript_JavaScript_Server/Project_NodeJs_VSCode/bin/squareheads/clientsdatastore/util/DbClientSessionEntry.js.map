@@ -1,0 +1,1 @@
+{"version":3,"file":"DbClientSessionEntry.js","sourceRoot":"","sources":["../../../../src/squareheads/clientsdatastore/util/DbClientSessionEntry.ts"],"names":[],"mappings":";;AACA,MAAa,oBAAoB;IAQ/B,YAAmB,SAAiB,EAAE,SAAiB,EAAE,UAAkB;QACzE,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAE3B,IAAI,CAAC,SAAS,GAAG,SAAS,CAAC;QAE3B,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;IAC/B,CAAC;CAEF;AAhBD,oDAgBC"}

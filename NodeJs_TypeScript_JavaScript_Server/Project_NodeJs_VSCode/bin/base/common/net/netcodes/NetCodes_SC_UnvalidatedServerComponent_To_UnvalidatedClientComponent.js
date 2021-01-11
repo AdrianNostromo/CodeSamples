@@ -1,0 +1,8 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+const NetCodeRanges_1 = require("base/common/net/netcodes/NetCodeRanges");
+class NetCodes_SC_UnvalidatedServerComponent_To_UnvalidatedClientComponent {
+}
+NetCodes_SC_UnvalidatedServerComponent_To_UnvalidatedClientComponent.REQUEST_COMPONENT_CONFIG = NetCodeRanges_1.NetCodeRanges.SC_UnvalidatedServerComponentToUnvalidatedClientComponent + 1;
+exports.NetCodes_SC_UnvalidatedServerComponent_To_UnvalidatedClientComponent = NetCodes_SC_UnvalidatedServerComponent_To_UnvalidatedClientComponent;
+//# sourceMappingURL=NetCodes_SC_UnvalidatedServerComponent_To_UnvalidatedClientComponent.js.map

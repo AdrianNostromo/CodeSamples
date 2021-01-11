@@ -1,0 +1,1 @@
+{"version":3,"file":"GlobalAccessLogger.js","sourceRoot":"","sources":["../../../src/base/log/GlobalAccessLogger.ts"],"names":[],"mappings":";;AAEA,MAAa,kBAAkB;IAIpB,MAAM,CAAC,MAAM;QAChB,OAAO,kBAAkB,CAAC,GAAG,CAAC;IAClC,CAAC;IAEM,MAAM,CAAC,MAAM,CAAC,GAAY;QAC7B,kBAAkB,CAAC,GAAG,GAAG,GAAG,CAAC;IACjC,CAAC;;AARc,sBAAG,GAAY,IAAI,CAAC;AAFvC,gDAYC"}

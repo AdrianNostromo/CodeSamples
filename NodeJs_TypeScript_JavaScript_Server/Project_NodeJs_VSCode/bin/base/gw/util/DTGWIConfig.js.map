@@ -1,0 +1,1 @@
+{"version":3,"file":"DTGWIConfig.js","sourceRoot":"","sources":["../../../../src/base/gw/util/DTGWIConfig.ts"],"names":[],"mappings":";;AAAA,MAAa,WAAW;IAQtB,YACE,gBAAwB,EACxB,UAAkB,EAElB,eAAuB;QAEvB,IAAI,CAAC,gBAAgB,GAAG,gBAAgB,CAAC;QACzC,IAAI,CAAC,UAAU,GAAG,UAAU,CAAC;QAE7B,IAAI,CAAC,eAAe,GAAG,eAAe,CAAC;IACzC,CAAC;CAEF;AApBD,kCAoBC"}

@@ -1,0 +1,2 @@
+This can be used for a turn based movement and turn based scenario.
+NOTE. This is the old version used for grid_adventure, the new system is the turnPhases one.

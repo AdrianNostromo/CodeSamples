@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="club.pixelgg.demo.tubejumper3d"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk android:minSdkVersion="9" android:targetSdkVersion="25" />
+
+    <!-- Required by: screenshot_and_share_code -->
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <!-- Required by: screenshot_and_share_code, Chartboost_Ads(Optional) -->
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+
+    <!-- Required by: Chartboost_Ads -->
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <!-- Required by: Chartboost_Ads -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+
+    <!-- Required by: Chartboost_Ads(Optional) -->
+    <!-- <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/> -->
+
+    <!-- Required by: Chartboost_Ads(Optional) -->
+    <!-- <uses-permission android:name="android.permission.READ_PHONE_STATE"/> -->
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/GdxTheme" >
+
+        <!-- Required by: GooglePlayServices -->
+        <meta-data android:name="com.google.android.gms.games.APP_ID"
+                   android:value="@string/play_games_app_id" />
+        <!-- Required by: GooglePlayServices -->
+        <meta-data android:name="com.google.android.gms.version"
+                   android:value="@integer/google_play_services_version"/>
+
+        <activity
+            android:name="club.pixelgg.demo.tubejumper3d.AndroidLauncher"
+            android:label="@string/app_name" 
+            android:screenOrientation="userPortrait"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenSize">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+
+        <activity android:name="com.chartboost.sdk.CBImpressionActivity"
+                  android:excludeFromRecents="true"
+                  android:hardwareAccelerated="true"
+                  android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen"
+                  android:configChanges="keyboardHidden|orientation|screenSize" />
+    </application>
+
+</manifest>

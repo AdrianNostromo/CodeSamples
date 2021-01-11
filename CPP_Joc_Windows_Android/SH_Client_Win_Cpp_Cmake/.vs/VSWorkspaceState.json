@@ -1,0 +1,17 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\App",
+    "\\App\\src",
+    "\\App\\src\\rpg3D",
+    "\\App\\src\\rpg3D\\gw",
+    "\\App\\src\\rpg3D\\gw\\entity",
+    "\\App\\src\\rpg3D\\gw\\entity\\filter",
+    "\\App\\src\\rpg3D\\gw\\playPhases",
+    "\\App\\src\\worldGame3D",
+    "\\App\\src\\worldGame3D\\gw",
+    "\\App\\src\\worldGame3D\\gw\\gamepart"
+  ],
+  "SelectedNode": "\\App\\src\\sh\\scenarios\\squareTactics_a_v1\\gw\\czGridBattleA\\config\\CZ_GridBattleA.cpp",
+  "PreviewInSolutionExplorer": false
+}

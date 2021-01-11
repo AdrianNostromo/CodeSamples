@@ -1,0 +1,82 @@
+{
+	"BLUE_A":{
+		"layers":[
+			{
+				"speedMultiplier":0.0,
+				"marginToNextItemV":{
+				  "offset":0,
+				  "stepSize":1,
+				  "stepsMin":0,
+				  "stepsMax":0
+				},
+				"screenPPosX":{
+					"min":0,
+					"max":0
+				},
+				"assetsList":[
+					{
+						"frameID":"inGame/bg_BLUE_A/BgA",
+						"anchor":{"x":0, "y":0},
+						"scale":{"min":1, "max":1}
+					}
+				]
+			},
+			{
+				"speedMultiplier":0.2,
+				"marginToNextItemV":{
+				  "offset":50,
+				  "stepSize":1,
+				  "stepsMin":50,
+				  "stepsMax":200
+				},
+				"screenPPosX":{
+					"min":0.4,
+					"max":0.6
+				},
+				"assetsList":[
+					{
+						"frameID":"inGame/bg_BLUE_A/CliffA",
+						"anchor":{"x":0.5, "y":0.5},
+						"scale":{"min":0.7, "max":1}
+					}
+				]
+			},
+			{
+				"speedMultiplier":0.01,
+				"marginToNextItemV":{
+				  "offset":10,
+				  "stepSize":1,
+				  "stepsMin":20, 
+				  "stepsMax":60
+				},
+				"screenPPosX":{
+					"min":0,
+					"max":1
+				},
+				"isCloudsLayer":true,
+				"assetsList":[
+					{
+						"frameID":"inGame/bg_BLUE_A/CloudsA",
+						"anchor":{"x":0.5, "y":0.5},
+						"scale":{"min":0.7, "max":1}
+					},
+					{
+						"frameID":"inGame/bg_BLUE_A/CloudsB",
+						"anchor":{"x":0.5, "y":0.5},
+						"scale":{"min":0.7, "max":1}
+					},
+					{
+						"frameID":"inGame/bg_BLUE_A/CloudsC",
+						"anchor":{"x":0.5, "y":0.5},
+						"scale":{"min":0.7, "max":1}
+					},
+					{
+						"frameID":"inGame/bg_BLUE_A/CloudsD",
+						"anchor":{"x":0.5, "y":0.5},
+						"scale":{"min":0.7, "max":1}
+					}
+				]
+			}
+		]
+	}
+}

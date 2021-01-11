@@ -1,0 +1,23 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>App IFramed</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="Most awesome app.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	
+	<link rel="stylesheet" href="css/styles_iframed.css" type="text/css" />
+</head>
+<body onload="onBodyLoaded()">
+
+<script>
+	function onBodyLoaded() {
+		var x = document.createElement("IFRAME");
+	    x.setAttribute("src", "./index.html" + "?" + (new Date()).getTime());
+	    document.body.appendChild(x);
+	}
+</script>
+</body>
+</html>

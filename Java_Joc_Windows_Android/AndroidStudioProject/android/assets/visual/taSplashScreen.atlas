@@ -1,0 +1,13 @@
+
+taSplashScreen.png
+size: 1024,2048
+format: RGBA8888
+filter: MipMapLinearNearest,Linear
+repeat: none
+splashScreenView/bg
+  rotate: false
+  xy: 8, 8
+  size: 682, 1080
+  orig: 682, 1080
+  offset: 0, 0
+  index: -1

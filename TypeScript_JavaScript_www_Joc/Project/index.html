@@ -1,0 +1,66 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8" />
+	<title>App</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta name="description" content="Most awesome app.">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" />
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	
+	<link rel="stylesheet" href="css/styles.css" type="text/css" />
+	
+	<script>
+		dojoConfig = {
+			baseUrl: "./js",
+			packages: [
+				{name: "app", location: "app"},
+				{name: "lib", location: "lib"}
+			],
+			aliases: [
+				// Instead of having to type "dojo/domReady!", we just want "ready!" instead
+				/* ASD_DEV; remove the dev reference before release;
+				["lib/pixijs/pixi", "lib/pixijs/pixi.min"],
+				["lib/pixijs/pixi", "lib/soundjs/soundjs.min"],
+				["lib/pixijs/pixi", "lib/preloadjs/preloadjs.min"]*/
+			],
+			has: {
+				"dojo-debug-messages": true
+			},
+			async: true,
+			cacheBust: false
+		};
+	</script>
+	<script type="text/javascript" src="js/dojo/dojo.js"></script>
+</head>
+<body onload="onBodyLoaded()">
+
+<!-- This span is required so phaser texts can use the font, otherwise the fonts are not rendered on the first try. -->
+<span id="fontsLoadForcer1"></span>
+<span id="fontsLoadForcer2"></span>
+
+<canvas id="appCanvas"></canvas>
+
+<script>
+	function onBodyLoaded() {
+		require([
+			'dojo/dom',
+			"lib/pixijs/pixi",// Need to load pixi here so it is already loaded when PIXI.Spine needs it.
+			"lib/soundjs/soundjs",
+			"lib/preloadjs/preloadjs",
+			'app/Main',
+			'dojo/dom-construct',
+			'dojo/domReady!'
+		], function (dom, PIXI, SoundJs, PreloadJs, Main) {
+			"use strict";
+			
+			var appCanvas = document.getElementById("appCanvas");
+			
+			var gameApp = new Main();
+            
+            gameApp.startApp(appCanvas);
+		});
+	}
+</script>
+</body>
+</html>

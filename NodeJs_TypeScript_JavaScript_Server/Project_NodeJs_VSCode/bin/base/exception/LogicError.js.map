@@ -1,0 +1,1 @@
+{"version":3,"file":"LogicError.js","sourceRoot":"","sources":["../../../src/base/exception/LogicError.ts"],"names":[],"mappings":";;AAAA,MAAa,UAAW,SAAQ,KAAK;IAEnC,YAAmB,OAAe;QAChC,KAAK,CAAC,OAAO,CAAC,CAAC;QAEf,IAAI,CAAC,IAAI,GAAG,YAAY,CAAC;IAC3B,CAAC;CAEF;AARD,gCAQC"}
